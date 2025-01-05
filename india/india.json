@@ -2361,7 +2361,7 @@
         {
             "type": "Feature",
             "properties": {
-                "st_nm": "Daman and Diu"
+                "st_nm": "The Dadra And Nagar Haveli And Daman And Diu"
             },
             "geometry": {
                 "type": "Polygon",
